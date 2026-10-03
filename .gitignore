@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.idea/
+*.ckpt
+*.pt
+*.dat
+*.pkl
+*.zip
+vae_token_vis/
+checkpoints/
+wandb/
+logs/
+lightning_logs/
+visualize/
+submission*/
